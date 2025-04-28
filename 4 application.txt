@@ -1,0 +1,36 @@
+go to setting and click on setup
+then click on object manager
+then create on right corner then custom object  (creating the table name)
+then click salseforce classic
+then set label name which your table name    Student
+then click save and new
+then create new table   Book
+then click on setup  and choose book
+then click on fields & Relationship
+then create classic then text then next
+in field label: Author name  length:20   description
+then add another column
+field:publisher  length:20
+then create column for student
+field: Class
+
+then we can create a tap click setup from setting
+in quick find search tab
+then go to classic
+then click new in custom object tab
+in object select book then select tab style
+then create another tab for student            ( we can create 2 tab for 2 table   3 tab for 3 table)
+
+app creation
+go to setup
+in quick find  app
+then click app maneger
+then click new lightning app 
+then write app name
+then add some tabs for application  student, book, contact, dashboard
+in last step we can add    system administrator
+
+
+to find application
+click on app launcher  and type application name
+to add new data click on new
